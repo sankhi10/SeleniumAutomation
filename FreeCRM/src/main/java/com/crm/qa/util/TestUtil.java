@@ -17,6 +17,9 @@ import org.openqa.selenium.TakesScreenshot;
 import com.crm.qa.base.TestBase;
 
 public class TestUtil extends TestBase {
+	//changes for GIT reload
+	int k;
+	char S;
 
 	public static long PAGE_LOAD_TIMEOUT = 20;
 	public static long IMPLICIT_WAIT = 20;

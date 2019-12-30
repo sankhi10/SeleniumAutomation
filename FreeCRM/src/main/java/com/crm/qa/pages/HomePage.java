@@ -9,6 +9,9 @@ import org.openqa.selenium.support.PageFactory;
 import com.crm.qa.base.TestBase;
 
 public class HomePage extends TestBase {
+	//changes for GIT reload
+	int k;
+	char S;
 
 	@FindBy(xpath = "//td[contains(text(),'User: Naveen K')]")
 	@CacheLookup
